@@ -1,0 +1,6 @@
+{
+  "name": "Adjectives & Opposites",
+  "description": "A modern, interactive educational website for a Grade 5 English lesson about adjectives, opposites, and The Zebra Question. Features colorful graphics, animations, Gemini-powered chat teacher, games, and quizzes.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["gemini-api"]
+}
